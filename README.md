@@ -99,23 +99,23 @@ I am "Monir Hossen" I am working on web & mobile application development more th
 <tr>
 <td>
 <br>
-<div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
+<div style="cursor: pointer" href="https://github.com/SWE-Monir">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWE-Monir&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SWE-Monir&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 </div>
 </td>
 
 <td>
 <br>
-<div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
+<div style="cursor: pointer" href="https://github.com/SWE-Monir">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/SWE-Monir/SWE-Monir">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SWE-Monir" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 </div>
 </td>
