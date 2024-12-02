@@ -38,8 +38,8 @@
 <tbody>
 
 <tr>
-<br>
 <td>
+<br>
 <div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Monir&show_icons=true&theme=transparent)
@@ -47,8 +47,8 @@
 </div>
 </td>
 
-<br>
 <td>
+<br>
 <div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Monir&show_icons=true&theme=transparent)
@@ -58,9 +58,8 @@
 </tr>
 
 <tr>
-<br>
 <td>
-
+<br>
 <div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Monir&show_icons=true&theme=transparent)
@@ -69,8 +68,9 @@
 
 
 </td>
-<br>
+
 <td>
+<br>
 <div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Monir&show_icons=true&theme=transparent)
