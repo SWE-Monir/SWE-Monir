@@ -86,6 +86,16 @@
 
 </table>
 
+### About
+I am "Monir Hossen" I am working on web & mobile application development more than 1 years. Graphic design, UI/UX design, Research & development.
+
+### Working Area
+1. App Design for Google play sotre
+
+### Completed R&D Past Years:
+1. Web security practices
+
+
 
 
 
