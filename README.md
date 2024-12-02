@@ -98,26 +98,16 @@ I am "Monir Hossen" I am working on web & mobile application development more th
 
 <tr>
 <td>
-<br>
-<div style="cursor: pointer" href="https://github.com/SWE-Monir">
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SWE-Monir&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SWE-Monir&layout=compact&langs_count=8&card_width=260" />
 
-</div>
+
 </td>
 
 <td>
-<br>
-<div style="cursor: pointer" href="https://github.com/SWE-Monir">
 
-<a href="https://github.com/SWE-Monir/SWE-Monir">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SWE-Monir" />
-</a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SWE-Monir" />
 
-
-</div>
 </td>
 </tr>
 </tbody>
