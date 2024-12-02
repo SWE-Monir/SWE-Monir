@@ -13,7 +13,7 @@
 </div>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SWE-Monir&theme=meta-dark&border_radius=4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SWE-Monir)](https://git.io/streak-stats)
 
 ### Love to code
 
