@@ -14,6 +14,7 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SWE-Monir&theme=meta-dark&border_radius=4)](https://git.io/streak-stats)
+
 ### Love to code
 
 <div Style="display:flex">
@@ -95,7 +96,33 @@ I am "Monir Hossen" I am working on web & mobile application development more th
 ### Completed R&D Past Years:
 1. Web security practices
 
+<table>
+<tbody>
 
+<tr>
+<td>
+<br>
+<div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWE-Monir&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+</td>
+
+<td>
+<br>
+<div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+</div>
+</td>
+</tr>
+</table>
 
 
