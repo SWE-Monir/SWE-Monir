@@ -54,6 +54,26 @@
 </td>
 </tr>
 
+<tr>
+<td>
+
+<div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Monir&show_icons=true&theme=transparent)
+
+</div>
+</td>
+<td>
+<div style="cursor: pointer" href="https://github.com/SWE-Monir/SWE-Monir">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Monir&show_icons=true&theme=transparent)
+
+</div>
+</td>
+</tr>
+
+
+
 
 </tbody>
 
